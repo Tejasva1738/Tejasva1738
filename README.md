@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejasva1738
 - 👀 I’m interested in Music, Programming and Web Series
-- 🌱 I’m currently learning HTMLL and CSS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on a HTML project
 - 📫 How to reach me: tejasva1607@gmail.com
 
